@@ -1,1 +1,1 @@
-# odin-recipes
+This is the first assignment in odin which is odin-recipes
